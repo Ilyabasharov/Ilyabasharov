@@ -5,7 +5,7 @@
     <a href="https://leetcode.com/ilyabasharov98" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"></a>
 </p>
 
-### Hi there! ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+### Hi there!
 - 🔭 I have double M.Sc degrees at [Phystech](https://mipt.ru/english/) and [Skoltech](https://www.skoltech.ru/en/)
 - 🌱 I’m conducting research on Computer Vision
 
